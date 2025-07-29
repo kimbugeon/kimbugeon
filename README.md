@@ -8,7 +8,6 @@
 <p align="center">꾸준히 성장하고, 시스템으로 가치를 만드는 개발자를 지향합니다.</p>
 
 <hr><br>
-
 <!-- Tech Stack -->
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
@@ -20,7 +19,6 @@
 </div>
 
 <br>
-
 <!-- Framework -->
 <h3 align="center">⚙️ Framework</h3>
 <div align="center">
@@ -30,7 +28,6 @@
 </div>
 
 <br>
-
 <!-- Development Tools -->
 <h3 align="center">💻 Development Tools</h3>
 <div align="center">
@@ -40,7 +37,6 @@
 </div>
 
 <br>
-
 <!-- OS & DB -->
 <h3 align="center">🗄 OS & Database</h3>
 <div align="center">
@@ -49,7 +45,7 @@
 </div>
 
 <dr>
-  
+<!-- Contact -->
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://pogun.tistory.com/" target="_blank">
