@@ -7,8 +7,8 @@
 <h3 align="center">🙋‍♂️ 신입 백엔드 개발자를 꿈꾸는 김부건입니다!</h3>
 <p align="center">꾸준히 성장하고, 시스템으로 가치를 만드는 개발자를 지향합니다.</p>
 
-<hr><br>
 <!-- Tech Stack -->
+<hr>
 <h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
@@ -18,8 +18,8 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </div>
 
-<br>
 <!-- Framework -->
+<hr>
 <h3 align="center">⚙️ Framework</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -27,8 +27,8 @@
   <img src="https://img.shields.io/badge/eGovFrame-00B0FF?style=for-the-badge&logo=gov.uk&logoColor=white" />
 </div>
 
-<br>
 <!-- Development Tools -->
+<hr>
 <h3 align="center">💻 Development Tools</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white" />
@@ -36,16 +36,16 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </div>
 
-<br>
 <!-- OS & DB -->
+<hr>
 <h3 align="center">🗄 OS & Database</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Linux(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
-<dr>
 <!-- Contact -->
+<hr>
 <h3 align="center">📫 Contact</h3>
 <div align="center">
   <a href="https://pogun.tistory.com/" target="_blank">
@@ -58,5 +58,3 @@
     <img src="https://img.shields.io/badge/qnrjs8500@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
   </a>
 </div>
-
-<hr>
