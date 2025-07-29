@@ -4,7 +4,7 @@
 </div>
 
 <!--내용 부분-->
-<h3 align="center">🛠 Tech Stack 🛠</h3>
+<h3 align="center">🛠 Tech Stack</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />&nbsp
@@ -15,6 +15,7 @@
 
 <br>
 
+<h3 align="center">🛠Framework</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />&nbsp
@@ -36,25 +37,5 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Linux(Ubuntu)-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📚 Studying 📚</h3>
-<div align="center">
-  <img src="https://img.shields.io/badge/System Design-00599C?style=for-the-badge&logo=databricks&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JSP-F7DF1E?style=for-the-badge&logo=java&logoColor=black" />&nbsp
-</div>
-
-<br>
-
-<h3 align="center">📫 Contact 📫</h3>
-<div align="center">
-  <a href="https://velog.io/@oka1313">
-    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" />&nbsp
-  </a>
-  <a href="mailto:oka1313@gmail.com">
-    <img src="https://img.shields.io/badge/oka1313@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
-  </a>
 </div>
 
