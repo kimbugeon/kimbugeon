@@ -48,4 +48,19 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
+<dr>
+  
+<h3 align="center">📫 Contact</h3>
+<div align="center">
+  <a href="https://pogun.tistory.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+  </a>
+  <a href="https://www.notion.so/Bu-Geon-Kim-12970dad20238032ac69fd71f3ed0847?source=copy_link" target="_blank">
+    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
+  </a>
+  <a href="mailto:qnrjs8500@naver.com">
+    <img src="https://img.shields.io/badge/qnrjs8500@naver.com-03C75A?style=for-the-badge&logo=naver&logoColor=white" />
+  </a>
+</div>
+
 <hr>
